@@ -5,17 +5,19 @@ permalink: /
 author_profile: true
 header:
   overlay_image: /images/brain_bw.png
-  overlay_filter: 0.3 # Keep the filter low to show off the contrast
+  overlay_filter: 0.1
   caption: "Postdoctoral Researcher | Computational Neuroscience"
 excerpt: "Investigating the spatial and temporal landscape of the human brain."
 ---
+
 <div style="display: flex; gap: 10px; margin-bottom: 20px;">
   <a href="/cv/" class="btn btn--info"><i class="fas fa-fw fa-file-pdf"></i> View CV</a>
   <a href="https://scholar.google.com/citations?user=aFG8E_AjMZ4C" class="btn btn--success"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a>
-  <a href="mailto:katerina.capouskova@dartmouth.edu" class="btn btn--warning"><i class="fas fa-fw fa-envelope"></i> Contact Me</a>
+  <a href="mailto:katerina.capouskova@dartmouth.edu" class="btn btn--warning"><i class="fas fa-fw fa-envelope"></i> Contact me</a>
 </div>
 
 I am a **Postdoctoral Researcher at Dartmouth College**, specializing in **Computational Neuroscience**. My work bridges the gap between whole-brain dynamics and physiological signal modeling.
+
 ## Research Interests
 
 | | |
@@ -24,8 +26,7 @@ I am a **Postdoctoral Researcher at Dartmouth College**, specializing in **Compu
 | <i class="fas fa-wave-square fa-2x"></i> | **Multi-modal Integration** <br> Correlating EEG alpha power with EDA and ECG measures. |
 | <i class="fas fa-code fa-2x"></i> | **Computational Methods** <br> Developing Python pipelines for neuroimaging analysis (MNE, fMRI). |
 
-
-# Katerina Capouskova
+---
 
 I let my life be carried away by the beauty of the mind-brain-cognition mystery. I like to explore this mystery from the self and the social via the neural networks to the underlying synapses, and perhaps even to the superposition mode.
 
