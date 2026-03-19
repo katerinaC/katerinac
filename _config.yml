@@ -1,6 +1,5 @@
 # Basic Site Settings
 locale: "en-US"
-site_theme: "default"
 remote_theme: "academicpages/academicpages.github.io"
 title: "Katerina Capouskova"
 title_separator: "-"
