@@ -13,7 +13,7 @@ I let my life be carried away by the beauty of the mind-brain-cognition mystery.
 > 📝 **News:** I just started my blog about brain: [mrbraintruekingpin.weebly.com](http://mrbraintruekingpin.weebly.com/)
 
 ## Research Interests
-cognitive flexibility · multi task switching · the self · social cognition · artificial intelligence · Bayesian inference · neural networks · brain dynamics · computational neuroscience · quantum cognition · genetics · epigenetics
+cognitive flexibility · multi task switching · the self · social cognition · artificial intelligence · Bayesian inference · neural networks · brain dynamics · computational neuroscience · genetics · epigenetics
 
 ---
 
