@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Katerina Capouskova"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -21,16 +21,19 @@ repository               : "academicpages/academicpages.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
+# Author Profile
 author:
-  # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Katerina Capouskova"
+  avatar           : "/images/bio-photo.jpg" 
+  bio              : "Postdoctoral Researcher in Computational Neuroscience"
+  location         : "Lebanon, NH"
+  employer         : "Dartmouth College | katerina.capouskova@dartmouth.edu"
+  uri              : "https://katerinac.com"
+  email            : "kcapouskova@hotmail.com" # Update if you prefer another
+  googlescholar    : "aFG8E_AjMZ4C"
+  linkedin         : "www.linkedin.com/in/katerinac"
+  github           : "katerinac"
+  orcid            : "0000-0002-1247-943X"
 
   # Academic websites
   academia         : # URL
@@ -57,7 +60,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
