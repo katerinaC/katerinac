@@ -1,11 +1,5 @@
 ---
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+
 # Katerina Capouskova
 
 I let my life be carried away by the beauty of the mind-brain-cognition mystery. I like to explore this mystery from the self and the social via the neural networks to the underlying synapses, and perhaps even to the superposition mode.
@@ -74,3 +68,9 @@ Investigated the social abilities of the right temporoparietal junction (rTPJ) u
 ### 📚 MSc in Philosophy of Science — LSE, London
 
 Explored the reflective aspect of self-consciousness and its role in social cognition, with a focus on theory-theory in terms of reflective and explicit self-representation, and its relationship with emotions and embodied cognition.
+
+---
+
+Apart from the beauty of the mind-brain-cognition complex, there are many more beauties to be explored. I like to look closer at architectonic achievements across all periods, read the great philosophers, watch extraordinary movies and series, breathe air in forests and parks, see waves rolling in the sea, and feel fresh snow under my skis. And of course, spend time with my two little ones and my husband. 
+
+And if Katerina C reminds you of Josef K. from Kafka's 'The Trial', you are on the right track, Dr. Holmes. 
