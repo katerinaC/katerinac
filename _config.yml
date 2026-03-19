@@ -15,7 +15,7 @@ nav: "main"
 # Author Profile
 author:
   name: "Katerina Capouskova"
-  avatar: "/images/bio-photo.jpg" 
+  avatar: "https://katerinac.com/images/bio-photo.jpg"
   bio: "Postdoctoral Researcher in Computational Neuroscience"
   location: "Lebanon, NH"
   employer: "Dartmouth College"
