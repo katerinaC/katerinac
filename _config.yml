@@ -1,8 +1,6 @@
 # Basic Site Settings
 locale: "en-US"
 remote_theme: "academicpages/academicpages.github.io"
-plugins:
-  - jekyll-remote-theme
 title: "Katerina Capouskova"
 title_separator: "-"
 name: "Katerina Capouskova"
@@ -68,6 +66,7 @@ defaults:
 
 # Plugins
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
