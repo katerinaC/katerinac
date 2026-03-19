@@ -10,12 +10,6 @@ header:
 excerpt: "Investigating the spatial and temporal landscape of the human brain."
 ---
 
-<div style="display: flex; gap: 10px; margin-bottom: 20px;">
-  <a href="/cv/" class="btn btn--info"><i class="fas fa-fw fa-file-pdf"></i> View CV</a>
-  <a href="https://scholar.google.com/citations?user=aFG8E_AjMZ4C" class="btn btn--success"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a>
-  <a href="mailto:katerina.capouskova@dartmouth.edu" class="btn btn--warning"><i class="fas fa-fw fa-envelope"></i> Contact me</a>
-</div>
-
 I am a **Postdoctoral Researcher at Dartmouth College**, specializing in **Computational Neuroscience**. My work bridges the gap between whole-brain dynamics and physiological signal modeling.
 
 ## Research Interests
