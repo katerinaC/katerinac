@@ -4,7 +4,7 @@ title: "Katerina Capouskova"
 permalink: /
 author_profile: true
 header:
-  overlay_image: /images/brain_bw.png
+  overlay_image: "/images/brain_bw.png"
   overlay_filter: 0.1
   caption: "Postdoctoral Researcher | Computational Neuroscience"
 excerpt: "Investigating the spatial and temporal landscape of the human brain."
