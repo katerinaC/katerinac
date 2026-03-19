@@ -6,8 +6,9 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'jekyll-redirect-from'
   gem 'jemoji'
+  gem 'jekyll-remote-theme' # This is the missing bridge!
   gem 'webrick', '~> 1.8'
 end
 
-gem 'github-pages'
+gem 'github-pages', group: :jekyll_plugins
 gem 'connection_pool', '2.5.0'
