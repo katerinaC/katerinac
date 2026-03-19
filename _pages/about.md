@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: single
 title: "Katerina Capouskova"
 permalink: /
 author_profile: true
