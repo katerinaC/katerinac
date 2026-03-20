@@ -54,4 +54,6 @@ Explored the reflective aspect of self-consciousness and its role in social cogn
 
 ---
 
-*Apart from the beauty of the mind-brain-cognition complex, I like to look closer at architecture across all periods, read the great philosophers, watch extraordinary films, breathe air in forests and parks, see waves rolling in the sea, and feel fresh snow under my skis — and of course, spend time with my two little ones and my husband.*rial', you are on the right track, Dr. Holmes. 
+*Apart from the beauty of the mind-brain-cognition complex, I like to look closer at architecture across all periods, read the great philosophers, watch extraordinary films, breathe air in forests and parks, see waves rolling in the sea, and feel fresh snow under my skis — and of course, spend time with my two little ones and my husband.*
+
+And yes, Katerina C is like Josef K. Most likely, I feel like him at this very moment. I also grew up in the places where the book is situated, so I very much understand. 
