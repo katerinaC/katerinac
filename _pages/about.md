@@ -9,7 +9,11 @@ excerpt: "Investigating the spatial and temporal landscape of the human brain."
 
 I am a **Postdoctoral Researcher at Dartmouth College**, specializing in **Computational Neuroscience**. My work bridges the gap between whole-brain dynamics and physiological signal modeling.
 
-I let my life be carried away by the beauty of the mind-brain-cognition mystery — from the self and the social, via neural networks, to the underlying synapses, and perhaps even to the superposition mode.
+My interests are mainly in cognitive flexibility, sparking questions on multiple levels:
+
+- **General:** How do whole-brain patterns switch in multi-task settings?
+- **Specific phenomena:** What are the differences in these patterns between fast and slow performers in different tasks?
+- **Health and disease:** What differences in cognitive flexibility can we observe in neurotypical and neurodivergent populations? Can we leverage our findings in future therapies?
 
 ## Research Interests
 
