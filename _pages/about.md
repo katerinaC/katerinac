@@ -7,7 +7,7 @@ header:
 excerpt: "Investigating the spatial and temporal landscape of the human brain."
 ---
 
-I am a **Postdoctoral Researcher at Dartmouth College**, specializing in **Computational Neuroscience**. My work bridges the gap between whole-brain dynamics and physiological signal modeling.
+I am a **Postdoctoral Researcher at Dartmouth College**, specializing in **Computational Neuroscience**. My work bridges the gap between whole-brain dynamics and cognitive phenomena.
 
 My interests are mainly in cognitive flexibility, sparking questions on multiple levels:
 
