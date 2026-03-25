@@ -11,13 +11,13 @@ I am a **Postdoctoral Researcher at Dartmouth College**, specializing in **Compu
 
 My interests are mainly in cognitive flexibility, sparking questions on multiple levels:
 
-- **General:** How do whole-brain patterns switch in multi-task settings?
-- **Specific phenomena:** What are the differences in these patterns between fast and slow performers in different tasks?
+- **General:** What does cognitive flexibility mean? How do whole-brain patterns switch in multi-task settings to enable cognitive flexibility?
+- **Specific phenomena:** What are the differences in these patterns between fast and slow performers in different tasks? How do integration and segregation help in cognitive flexibility? Do differences in cognitive flexibility predispose us to different perceptions of new phenomena like AI-generated content or the vast contradictory information that we can find online, like conspiracy theories? 
 - **Health and disease:** What differences in cognitive flexibility can we observe in neurotypical and neurodivergent populations? Can we leverage our findings in future therapies?
 
 ## Research Interests
 
-cognitive flexibility · multi-task switching · the self · social cognition · artificial intelligence · Bayesian inference · neural networks · brain dynamics · computational neuroscience · genetics · epigenetics
+cognitive flexibility · multi-task switching · the self · integration and segregation · artificial intelligence · Bayesian inference · neural networks · brain dynamics · computational neuroscience · genetics · epigenetics · social cognition
 
 ---
 
