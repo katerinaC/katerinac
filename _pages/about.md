@@ -14,6 +14,8 @@ My interests are mainly in cognitive flexibility, sparking questions on multiple
 - **General:** What does cognitive flexibility mean? How do whole-brain patterns switch in multi-task settings to enable cognitive flexibility?
 - **Specific phenomena:** What are the differences in these patterns between fast and slow performers in different tasks? How do integration and segregation help in cognitive flexibility? Do differences in cognitive flexibility predispose us to different perceptions of new phenomena like AI-generated content or the vast contradictory information that we can find online, like conspiracy theories? 
 - **Health and disease:** What differences in cognitive flexibility can we observe in neurotypical and neurodivergent populations? Can we leverage our findings in future therapies?
+- **Parenthood:** How does cognitive flexibility change in early postpartum? And how does it change for both parents throughout parenthood? Can we use our results to support parents in different stages of parenthood? 
+
 
 ## Research Interests
 
